@@ -450,7 +450,7 @@ left: 22px;
         display: flex;
     }
     .menu{
-        margin-left: 82%;
+        margin-left: 75%;
         position: relative;
         bottom: 40px;
     }
@@ -461,7 +461,7 @@ left: 22px;
     .navlink li {
         display: block;
         position: relative;
-        left: 110%;
+        left: 80%;
         background-color: white;
         height: 50px;
         top: 45px;
